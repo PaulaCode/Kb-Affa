@@ -1,0 +1,11 @@
+G:\Proyectos\Programación\Base de datos\SQL\ABOGADOS\APLICATIVO\KBAFFA\KBAFFA\bin\Debug\KBAFFA.exe.config
+G:\Proyectos\Programación\Base de datos\SQL\ABOGADOS\APLICATIVO\KBAFFA\KBAFFA\bin\Debug\KBAFFA.exe
+G:\Proyectos\Programación\Base de datos\SQL\ABOGADOS\APLICATIVO\KBAFFA\KBAFFA\bin\Debug\KBAFFA.pdb
+G:\Proyectos\Programación\Base de datos\SQL\ABOGADOS\APLICATIVO\KBAFFA\KBAFFA\bin\Debug\Logica.dll
+G:\Proyectos\Programación\Base de datos\SQL\ABOGADOS\APLICATIVO\KBAFFA\KBAFFA\bin\Debug\Logica.pdb
+G:\Proyectos\Programación\Base de datos\SQL\ABOGADOS\APLICATIVO\KBAFFA\KBAFFA\obj\Debug\KBAFFA.csprojResolveAssemblyReference.cache
+G:\Proyectos\Programación\Base de datos\SQL\ABOGADOS\APLICATIVO\KBAFFA\KBAFFA\obj\Debug\KBAFFA.Form1.resources
+G:\Proyectos\Programación\Base de datos\SQL\ABOGADOS\APLICATIVO\KBAFFA\KBAFFA\obj\Debug\KBAFFA.Properties.Resources.resources
+G:\Proyectos\Programación\Base de datos\SQL\ABOGADOS\APLICATIVO\KBAFFA\KBAFFA\obj\Debug\KBAFFA.csproj.GenerateResource.Cache
+G:\Proyectos\Programación\Base de datos\SQL\ABOGADOS\APLICATIVO\KBAFFA\KBAFFA\obj\Debug\KBAFFA.exe
+G:\Proyectos\Programación\Base de datos\SQL\ABOGADOS\APLICATIVO\KBAFFA\KBAFFA\obj\Debug\KBAFFA.pdb

@@ -1,0 +1,5 @@
+G:\Proyectos\Programación\Base de datos\SQL\ABOGADOS\APLICATIVO\KBAFFA\Datos\bin\Debug\Datos.dll
+G:\Proyectos\Programación\Base de datos\SQL\ABOGADOS\APLICATIVO\KBAFFA\Datos\bin\Debug\Datos.pdb
+G:\Proyectos\Programación\Base de datos\SQL\ABOGADOS\APLICATIVO\KBAFFA\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+G:\Proyectos\Programación\Base de datos\SQL\ABOGADOS\APLICATIVO\KBAFFA\Datos\obj\Debug\Datos.dll
+G:\Proyectos\Programación\Base de datos\SQL\ABOGADOS\APLICATIVO\KBAFFA\Datos\obj\Debug\Datos.pdb

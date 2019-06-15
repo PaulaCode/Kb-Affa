@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KBAFFA", "KBAFFA\KBAFFA.csproj", "{278ECF36-3061-44E5-84B3-3496DD680F0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logica", "Logica\Logica.csproj", "{68AFBC3E-4C45-480B-AD8A-2722D84A8AD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datos", "Datos\Datos.csproj", "{6953599E-3DE7-48CE-856F-E4C3242D289E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{278ECF36-3061-44E5-84B3-3496DD680F0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{278ECF36-3061-44E5-84B3-3496DD680F0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{278ECF36-3061-44E5-84B3-3496DD680F0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{278ECF36-3061-44E5-84B3-3496DD680F0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68AFBC3E-4C45-480B-AD8A-2722D84A8AD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68AFBC3E-4C45-480B-AD8A-2722D84A8AD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68AFBC3E-4C45-480B-AD8A-2722D84A8AD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68AFBC3E-4C45-480B-AD8A-2722D84A8AD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6953599E-3DE7-48CE-856F-E4C3242D289E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6953599E-3DE7-48CE-856F-E4C3242D289E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6953599E-3DE7-48CE-856F-E4C3242D289E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6953599E-3DE7-48CE-856F-E4C3242D289E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

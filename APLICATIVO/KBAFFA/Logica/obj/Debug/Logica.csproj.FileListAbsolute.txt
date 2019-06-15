@@ -1,0 +1,7 @@
+G:\Proyectos\Programación\Base de datos\SQL\ABOGADOS\APLICATIVO\KBAFFA\Logica\bin\Debug\Logica.dll
+G:\Proyectos\Programación\Base de datos\SQL\ABOGADOS\APLICATIVO\KBAFFA\Logica\bin\Debug\Logica.pdb
+G:\Proyectos\Programación\Base de datos\SQL\ABOGADOS\APLICATIVO\KBAFFA\Logica\bin\Debug\Datos.dll
+G:\Proyectos\Programación\Base de datos\SQL\ABOGADOS\APLICATIVO\KBAFFA\Logica\bin\Debug\Datos.pdb
+G:\Proyectos\Programación\Base de datos\SQL\ABOGADOS\APLICATIVO\KBAFFA\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+G:\Proyectos\Programación\Base de datos\SQL\ABOGADOS\APLICATIVO\KBAFFA\Logica\obj\Debug\Logica.dll
+G:\Proyectos\Programación\Base de datos\SQL\ABOGADOS\APLICATIVO\KBAFFA\Logica\obj\Debug\Logica.pdb
