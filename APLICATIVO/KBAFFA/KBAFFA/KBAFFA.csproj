@@ -32,6 +32,21 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>..\..\..\..\..\..\..\..\Herramientas\VISUAL STUDIO\BUNIFU\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework">
+      <HintPath>..\..\..\..\..\..\..\..\Herramientas\VISUAL STUDIO\METRO FRAMEWORK\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design">
+      <HintPath>..\..\..\..\..\..\..\..\Herramientas\VISUAL STUDIO\METRO FRAMEWORK\MetroFramework.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts">
+      <HintPath>..\..\..\..\..\..\..\..\Herramientas\VISUAL STUDIO\METRO FRAMEWORK\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="Panel_Trasparente">
+      <HintPath>..\..\..\..\..\..\..\..\Herramientas\VISUAL STUDIO\PANEL TRANSPARENTE\Panel_Trasparente.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />

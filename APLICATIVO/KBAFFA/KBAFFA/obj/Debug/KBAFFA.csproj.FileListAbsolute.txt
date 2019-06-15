@@ -4,8 +4,13 @@ G:\Proyectos\Programación\Base de datos\SQL\ABOGADOS\APLICATIVO\KBAFFA\KBAFFA\b
 G:\Proyectos\Programación\Base de datos\SQL\ABOGADOS\APLICATIVO\KBAFFA\KBAFFA\bin\Debug\Logica.dll
 G:\Proyectos\Programación\Base de datos\SQL\ABOGADOS\APLICATIVO\KBAFFA\KBAFFA\bin\Debug\Logica.pdb
 G:\Proyectos\Programación\Base de datos\SQL\ABOGADOS\APLICATIVO\KBAFFA\KBAFFA\obj\Debug\KBAFFA.csprojResolveAssemblyReference.cache
-G:\Proyectos\Programación\Base de datos\SQL\ABOGADOS\APLICATIVO\KBAFFA\KBAFFA\obj\Debug\KBAFFA.Form1.resources
 G:\Proyectos\Programación\Base de datos\SQL\ABOGADOS\APLICATIVO\KBAFFA\KBAFFA\obj\Debug\KBAFFA.Properties.Resources.resources
 G:\Proyectos\Programación\Base de datos\SQL\ABOGADOS\APLICATIVO\KBAFFA\KBAFFA\obj\Debug\KBAFFA.csproj.GenerateResource.Cache
 G:\Proyectos\Programación\Base de datos\SQL\ABOGADOS\APLICATIVO\KBAFFA\KBAFFA\obj\Debug\KBAFFA.exe
 G:\Proyectos\Programación\Base de datos\SQL\ABOGADOS\APLICATIVO\KBAFFA\KBAFFA\obj\Debug\KBAFFA.pdb
+G:\Proyectos\Programación\Base de datos\SQL\ABOGADOS\APLICATIVO\KBAFFA\KBAFFA\bin\Debug\Bunifu_UI_v1.5.3.dll
+G:\Proyectos\Programación\Base de datos\SQL\ABOGADOS\APLICATIVO\KBAFFA\KBAFFA\bin\Debug\MetroFramework.Design.dll
+G:\Proyectos\Programación\Base de datos\SQL\ABOGADOS\APLICATIVO\KBAFFA\KBAFFA\bin\Debug\MetroFramework.dll
+G:\Proyectos\Programación\Base de datos\SQL\ABOGADOS\APLICATIVO\KBAFFA\KBAFFA\bin\Debug\MetroFramework.Fonts.dll
+G:\Proyectos\Programación\Base de datos\SQL\ABOGADOS\APLICATIVO\KBAFFA\KBAFFA\bin\Debug\Panel_Trasparente.dll
+G:\Proyectos\Programación\Base de datos\SQL\ABOGADOS\APLICATIVO\KBAFFA\KBAFFA\obj\Debug\KBAFFA.frmMenu.resources

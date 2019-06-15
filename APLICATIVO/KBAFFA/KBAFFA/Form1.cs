@@ -10,11 +10,18 @@ using System.Windows.Forms;
 
 namespace KBAFFA
 {
-    public partial class Form1 : Form
+    public partial class frmMenu : Form
     {
-        public Form1()
+        public frmMenu()
         {
             InitializeComponent();
         }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+   
     }
 }
