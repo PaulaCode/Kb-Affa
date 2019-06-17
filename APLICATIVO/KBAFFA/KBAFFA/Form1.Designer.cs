@@ -31,14 +31,14 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmMenu));
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.bunifuSeparator1 = new Bunifu.Framework.UI.BunifuSeparator();
-            this.button1 = new System.Windows.Forms.Button();
+            this.Estadobtn = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // pictureBox1
             // 
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(652, 23);
+            this.pictureBox1.Location = new System.Drawing.Point(434, 12);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(132, 51);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -49,35 +49,36 @@
             // bunifuSeparator1
             // 
             this.bunifuSeparator1.BackColor = System.Drawing.Color.Transparent;
-            this.bunifuSeparator1.LineColor = System.Drawing.Color.DimGray;
+            this.bunifuSeparator1.LineColor = System.Drawing.Color.FromArgb(((int)(((byte)(105)))), ((int)(((byte)(105)))), ((int)(((byte)(105)))));
             this.bunifuSeparator1.LineThickness = 1;
-            this.bunifuSeparator1.Location = new System.Drawing.Point(220, 55);
+            this.bunifuSeparator1.Location = new System.Drawing.Point(255, 50);
             this.bunifuSeparator1.Name = "bunifuSeparator1";
-            this.bunifuSeparator1.Size = new System.Drawing.Size(596, 35);
+            this.bunifuSeparator1.Size = new System.Drawing.Size(348, 35);
             this.bunifuSeparator1.TabIndex = 3;
             this.bunifuSeparator1.Transparency = 255;
             this.bunifuSeparator1.Vertical = false;
             // 
-            // button1
+            // Estadobtn
             // 
-            this.button1.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.button1.FlatAppearance.BorderColor = System.Drawing.Color.White;
-            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button1.ForeColor = System.Drawing.Color.White;
-            this.button1.Location = new System.Drawing.Point(582, 124);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(147, 47);
-            this.button1.TabIndex = 4;
-            this.button1.Text = "button1";
-            this.button1.UseVisualStyleBackColor = true;
+            this.Estadobtn.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.Estadobtn.FlatAppearance.BorderColor = System.Drawing.Color.White;
+            this.Estadobtn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.Estadobtn.ForeColor = System.Drawing.Color.White;
+            this.Estadobtn.Location = new System.Drawing.Point(434, 91);
+            this.Estadobtn.Name = "Estadobtn";
+            this.Estadobtn.Size = new System.Drawing.Size(132, 34);
+            this.Estadobtn.TabIndex = 4;
+            this.Estadobtn.Text = "Estado";
+            this.Estadobtn.UseVisualStyleBackColor = true;
+            this.Estadobtn.Click += new System.EventHandler(this.button1_Click);
             // 
             // frmMenu
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(8)))), ((int)(((byte)(12)))), ((int)(((byte)(25)))));
-            this.ClientSize = new System.Drawing.Size(808, 411);
-            this.Controls.Add(this.button1);
+            this.ClientSize = new System.Drawing.Size(598, 232);
+            this.Controls.Add(this.Estadobtn);
             this.Controls.Add(this.bunifuSeparator1);
             this.Controls.Add(this.pictureBox1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
@@ -93,7 +94,7 @@
 
         private System.Windows.Forms.PictureBox pictureBox1;
         private Bunifu.Framework.UI.BunifuSeparator bunifuSeparator1;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button Estadobtn;
     }
 }
 

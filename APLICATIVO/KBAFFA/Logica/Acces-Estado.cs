@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
-namespace Datos
+using System.Windows.Forms;
+namespace Logica
 {
-    public class Class1
+    class Acces_Estado
     {
     }
 }

@@ -10,25 +10,18 @@ using System.Windows.Forms;
 
 namespace KBAFFA
 {
-    public partial class frmMenu : Form
+    public partial class Estado : Form
     {
-        public frmMenu()
+        public Estado()
         {
             InitializeComponent();
         }
 
-        private void pictureBox1_Click(object sender, EventArgs e)
+        private void button3_Click(object sender, EventArgs e)
         {
-
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-            Estado frmEstado = new Estado();
-            frmEstado.Show();
+            frmMenu frmmenu = new frmMenu();
+            frmmenu.Show();
             this.Hide();
         }
-
-   
     }
 }

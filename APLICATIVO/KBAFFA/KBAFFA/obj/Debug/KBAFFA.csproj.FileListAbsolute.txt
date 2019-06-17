@@ -14,3 +14,4 @@ G:\Proyectos\Programación\Base de datos\SQL\ABOGADOS\APLICATIVO\KBAFFA\KBAFFA\b
 G:\Proyectos\Programación\Base de datos\SQL\ABOGADOS\APLICATIVO\KBAFFA\KBAFFA\bin\Debug\MetroFramework.Fonts.dll
 G:\Proyectos\Programación\Base de datos\SQL\ABOGADOS\APLICATIVO\KBAFFA\KBAFFA\bin\Debug\Panel_Trasparente.dll
 G:\Proyectos\Programación\Base de datos\SQL\ABOGADOS\APLICATIVO\KBAFFA\KBAFFA\obj\Debug\KBAFFA.frmMenu.resources
+G:\Proyectos\Programación\Base de datos\SQL\ABOGADOS\APLICATIVO\KBAFFA\KBAFFA\obj\Debug\KBAFFA.Estado.resources

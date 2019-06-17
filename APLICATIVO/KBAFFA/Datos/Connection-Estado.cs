@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
-namespace Logica
+using System.Windows.Forms;
+namespace Datos
 {
-    public class Class1
+    class Connection_Estado
     {
     }
 }
